@@ -23,3 +23,7 @@
   color: var(--color-grey-3);
 }
 
+footer .content-box{
+  position: sticky;
+  bottom: 20px;
+}
